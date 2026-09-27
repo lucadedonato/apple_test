@@ -17,6 +17,17 @@ Download and convert YouTube videos to the following formats:
 ```
 
 
+<h3>
+  <img src="assets/film.svg" width="20" alt="">
+  Video
+</h3>
+
+<h3>
+  <img src="assets/music.svg" width="20" alt="">
+  Audio
+</h3>
+
+
 ### 🎥 Video
 
 ![MP4](https://img.shields.io/badge/MP4-333333?style=flat-square)
