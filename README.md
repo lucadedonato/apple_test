@@ -30,6 +30,15 @@ Download and convert YouTube videos to the following formats:
 ![FLAC](https://img.shields.io/badge/FLAC-333333?style=flat-square)
 
 
+
+### Supported Formats
+
+| Type | Supported formats |
+|---|---|
+| 🎥 Video | `MP4` · `MOV` · `AVI` |
+| 🎵 Audio | `MP3` · `WAV` · `FLAC` |
+
+
 <p align="center">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/00/a0/d300a08d-a615-8a72-c6f1-b868652dd217/Placeholder.mill/400x400bb-75.webp" width="120" alt="YouTube Converter Icon">
 </p>
