@@ -27,6 +27,47 @@
 [![Site](https://img.shields.io/badge/SITE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://lucadedonato.com/youtube_converter)
 
 
+
+## Project Structure
+
+```text
+youtube_converter/
+├── src/
+│   └── main.py
+├── web/
+│   ├── fonts/
+│   ├── ico/
+│   ├── app.js
+│   ├── index.html
+│   └── style.css
+├── Dockerfile
+├── compose.yaml
+└── requirements.txt
+```
+
+
+## 📁 Project Structure
+
+```text
+youtube_converter/
+│
+├── 📂 src/
+│   └── main.py
+│
+├── 📂 web/
+│   ├── 📂 fonts/
+│   ├── 📂 ico/
+│   ├── app.js
+│   ├── index.html
+│   └── style.css
+│
+├── Dockerfile
+├── compose.yaml
+└── requirements.txt
+```
+
+
+
 <p align="center">
   <a href="https://lucadedonato.com/youtube_converter">
     <img src="https://img.shields.io/badge/SITE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Site">
